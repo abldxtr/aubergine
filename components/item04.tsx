@@ -6,7 +6,7 @@ export const Item04 = () => {
         <div>
           <h3 className="text-4xl text-white">Membership benefits</h3>
           <p className="mt-4 text-onyx-300">
-            Perks so good you'll never need to go
+            Perks so good youll never need to go
             <span className="md:block">
               anywhere else for your design. Seriously.
             </span>

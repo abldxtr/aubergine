@@ -72,7 +72,7 @@ export const Item05 = () => {
                 </div>
                 <div className="mt-2">
                   <p className="text-sm text-onyx-300 lg:text-lg">
-                    Aubergine has helped me with many designs, and I couldn't
+                    Aubergine has helped me with many designs, and I couldnt
                     follow his working speed when we worked together. His
                     designs are slick, and he delivers a lot of value; he is
                     constantly iterating his designs improving.

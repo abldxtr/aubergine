@@ -5,7 +5,7 @@ export const Pricing = () => {
         <div className="max-w-xl lg:mx-auto lg:text-center">
           <h3 className="text-4xl text-white">Memberships levels</h3>
           <p className="mt-4 text-onyx-300">
-            Choose a plan that's right for you.
+            Choose a plan thats right for you.
           </p>
         </div>
         {/* <!-- price table --> */}

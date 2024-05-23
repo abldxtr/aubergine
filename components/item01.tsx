@@ -29,7 +29,7 @@ export const Item01 = () => {
                     Submit
                   </p>
                   <p className="mt-4 text-base text-[rgb(175_173_190)]">
-                    Subscribe to a plan & request as many designs as you'd like.
+                    Subscribe to a plan & request as many designs as youd like.
                   </p>
                 </div>
               </div>
@@ -57,7 +57,7 @@ export const Item01 = () => {
                     Build
                   </p>
                   <p className="mt-4 text-base text-[rgb(175_173_190)]">
-                    We'll revise the designs until you're 100% satisfied.
+                    Well revise the designs until youre 100% satisfied.
                   </p>
                 </div>
               </div>
@@ -81,10 +81,10 @@ export const Item01 = () => {
         {/* <!-- 3 --> */}
         <div className="mt-24 rounded-[2rem] border border-onyx-800 bg-gradient-to-tr from-onyx-950 to-onyx-700 p-8 text-center ring ring-onyx-800 lg:p-20">
           <h4 className="text-white lg:text-3xl">
-            "Aubergine Studio are a rare breed of designers
+            Aubergine Studio are a rare breed of designers
             <span className="md:block">
               {" "}
-              and developers they understands business needs."{" "}
+              and developers they understands business needs.{" "}
             </span>
           </h4>
           <p className="mt-6 text-xl uppercase italic text-onyx-300">
@@ -96,8 +96,8 @@ export const Item01 = () => {
           <div className="border-b border-onyx-800 pb-4">
             <p className="text-xl leading-6 text-white">Totally async</p>
             <p className="mt-4 text-base text-onyx-300">
-              Don't like meetings? We don't either; so much so that we've
-              outlawed them.
+              Dont like meetings? We dont either; so much so that weve outlawed
+              them.
             </p>
           </div>
           <div className="border-b border-onyx-800 pb-4">
